@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to my Portfolio page, Thanks for visiting.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## For more information Please visit the other pages to see what projects i have worked on.
 
-## Commands
+### Licence and use of information
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Everything under this GNU License is being realeased under my name and my copyright, Copying and redistributing this code will automatically break my terms of use.
 
-## Project layout
+### Additional Information
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+For requests and feedback please contact me on discord Solvin-4165
