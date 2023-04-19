@@ -109,5 +109,6 @@ markdown_extensions:
 nav:
   - Home: index.md
   - About me: about.md
-  - Mkdocs Projects: projects.md
+  - Mkdocs Projects: 
+    - Introduction: projects.md
     - Zevenbergen: zevenbergen.md
