@@ -114,6 +114,6 @@ nav:
     - Zevenbergen: zevenbergen.md
   - Shop: 
     - About: template.md
-    - template:
+    - Template:
       - Wetboek: wetboek.md
       - Algemene Plaatselijke verordening: apv.md
