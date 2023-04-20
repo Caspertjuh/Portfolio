@@ -4,9 +4,7 @@ In here you can post any kind of law's you want to be used for Roleplay purposes
 
 For a Example :
 
-``` Typescript title='Example Law'
-A11 - Medeplichtigheid en medeplegen
-
+``` Typescript title="A11 - Medeplichtigheid en medeplegen"
 1. Als medeplichtigen van een strafbaar feit worden gestraft:
     1. zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;
     2. zij die opzettelijk gelegenheid, middelen of inlichtingen verschaffen tot het plegen van het misdrijf;
