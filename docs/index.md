@@ -9,3 +9,5 @@ Everything under this GNU License is being realeased under my name and my copyri
 ### Additional Information
 
 For requests and feedback please contact me on discord Solvin-4165
+
+Thanks for Reading!
