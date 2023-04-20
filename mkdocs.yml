@@ -112,3 +112,8 @@ nav:
   - Mkdocs Projects: 
     - Introduction: projects.md
     - Zevenbergen: zevenbergen.md
+  - Shop: 
+    - About: template.md
+    - template:
+      - Wetboek: wetboek.md
+      - Algemene Plaatselijke verordening: apv.md
