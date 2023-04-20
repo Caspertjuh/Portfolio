@@ -59,7 +59,7 @@ extra:
     json: [.s2]
   analytics:
     provider: google
-    property: G_Code
+    property: $G_Code
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Caspertjuh
