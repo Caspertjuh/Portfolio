@@ -108,7 +108,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - About me: about.md
+  - About me:
   - Mkdocs Projects: 
     - Introduction: projects.md
     - Zevenbergen: zevenbergen.md
