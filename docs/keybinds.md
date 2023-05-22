@@ -29,7 +29,7 @@
 | U | Auto Lock |
 | L | Kofferbak |
 | 3 | Car Menu |
-| Shift + B | driftmode|
+| Shift + B | Drift-mode|
 
 ## Normale Commands
 
@@ -99,29 +99,29 @@
 ``` sh
 /euprecherche 
 ```
-``` sh
-/setcallsign {callsign}, je roepnummer in whitelisted portos 
+``` sh title="je roepnummer in whitelisted portos"
+/setcallsign {callsign}
 ```
-``` sh
-/toggleback (toggle wapens op je rug) 
+``` sh title="toggle wapens op je rug"
+/toggleback  
 ```
-``` sh
-/ontzichtbaarfix (fixt meestal de ontzichtbaarheids bug voor jezelf) 
+``` sh title="fixt meestal de ontzichtbaarheids bug voor jezelf"
+/ontzichtbaarfix
 ```
-``` sh
-/snijkeel, snij iemand zijn keel door 
+``` sh title="snij iemand zijn keel door"
+/snijkeel 
 ```
-``` sh
-/record, rockstar editor menu 
+``` sh title="rockstar editor menu"
+/record 
 ```
-``` sh
-/fps, verander ingame settings voor jezelf waardoor je meer fps krijgt 
+``` sh title="verander ingame settings voor jezelf waardoor je meer fps krijgt"
+/fps  
 ```
-``` sh
-/noclip, vlieg door de map heen
+``` sh title="vlieg door de map heen"
+/noclip 
 ```
-``` sh
-/noclip_speed {speed}, pas de snelheid aan van je noclip 
+``` sh title="pas de snelheid aan van je noclip"
+/noclip_speed {speed}
 ```
 ``` sh
 /togglechat
