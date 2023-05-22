@@ -49,20 +49,20 @@
 ``` sh
 /fixvehicle
 ```
-``` sh
-/setjob ( Joblijst voor meer info )
+``` sh title="Joblijst voor meer info"
+/setjob 
+```
+``` sh title="Joblijst voor meer info"
+/setjob2
+```
+``` sh title="Voertuigen lijst voor meer info"
+/car 
+```
+``` sh title="/giveweapon 1 weapon_assaultrifle scope"
+/giveweaponcomponent {id} {wapen naam} {attachment}  
 ```
 ``` sh
-/setjob2 ( Joblijst voor meer info )
-```
-``` sh
-/car ( Voertuigen lijst voor meer info )
-```
-``` sh
-/giveweaponcomponent {id} {wapen naam} {attachment} (/giveweapon 1 weapon_assaultrifle scope) 
-```
-``` sh
-/request_search (/rs)
+/request_search
 ```
 ``` sh
 /request_boei
@@ -71,7 +71,7 @@
 /request_cuff
 ```
 ``` sh
-/request_radio (ID)
+/request_radio {ID}
 ```
 ``` sh
 /lightbar 
@@ -85,8 +85,8 @@
 ``` sh
 /removelightbar 
 ```
-``` sh
-/autorespawn, zorgt ervoor dat je automatisch respawned nadat de delay is verlopen 
+``` sh title="zorgt ervoor dat je automatisch respawned nadat de delay is verlopen"
+/autorespawn, 
 ```
 ``` sh
 /eup 
