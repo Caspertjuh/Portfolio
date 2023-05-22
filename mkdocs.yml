@@ -112,6 +112,7 @@ nav:
   - Shop: 
     - About: template.md
     - Template:
+      - Index: index2.md
       - Wetboek: wetboek.md
       - Algemene Plaatselijke verordening: apv.md
       - Keybinds Pagina: keybinds.md
