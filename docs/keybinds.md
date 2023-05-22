@@ -22,7 +22,6 @@
 | K | Accessoires menu |
 | 3 | Emotes Menu|
 | Shift + F9 (3sec) | Noodknop Politie |
-
 ## Auto Keybinds
 
 | Toets | Werking |
@@ -31,7 +30,7 @@
 | L | Kofferbak |
 | 3 | Car Menu |
 | Shift + B | driftmode|
-# Normale Commands
+## Normale Commands
 
 ``` sh
 /giveaccountmoney {id} {money, bank of black_money} {aantal} 
@@ -150,7 +149,7 @@
 ``` sh
 /tpc
 ```
-# Loadout Commands
+## Loadout Commands
 
 ``` sh
 /loadoutall
