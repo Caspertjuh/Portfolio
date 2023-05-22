@@ -21,6 +21,7 @@
 | B | Wijzen|
 | K | Accessoires menu |
 | 3 | Emotes Menu|
+| Shift + F9 (3sec) | Noodknop Politie |
 
 ## Auto Keybinds
 
