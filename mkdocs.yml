@@ -5,10 +5,6 @@ site_author: Caspertjuh
 site_description: >-
   Explore the Portfolio website made for Caspertjuh made available on github via mkdocs.
 
-# Repository
-repo_name: Caspertjuh/Portfolio
-repo_url: https://github.com/Caspertjuh/Portfolio
-
 # Copyright
 copyright: Copyright &copy; 2023 Caspertjuh
 
